@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Everyone 👋
+My name is Marco Aurelio, I'm QUALITY ASSURANCE ENGINEER at Stone Co.
 - 👨‍💻 Software Engineer
 - 📚 Graduated in Computer engineering from the Anápolis University Center
 

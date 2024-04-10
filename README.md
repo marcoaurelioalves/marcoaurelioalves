@@ -1,3 +1,6 @@
+
+<img align="right" width="350" src="https://www.tftus.com/wp-content/uploads/2021/03/NoPath-Copy-8.png"/>
+
 ### Hi, Everyone 👋
 My name is Marco Aurelio, I'm QUALITY ASSURANCE ENGINEER at Stone Co.
 - 👨‍💻 Software Engineer

@@ -1,5 +1,5 @@
 
-<img align="right" width="350" src="https://www.tftus.com/wp-content/uploads/2021/03/NoPath-Copy-8.png"/>
+<img align="right" width="350" src="https://assets-global.website-files.com/619e15d781b21202de206fb5/634d3d586b88223bea529359_Top-10-Ways-to-Accelerate-Software-Testing-Cycles.webp"/>
 
 ### Hi, Everyone 👋
 My name is Marco Aurelio, I'm QUALITY ASSURANCE ENGINEER at Stone Co.
